@@ -12,8 +12,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/walberson/BuiatricCare-Neurology">
-    <img src="logo.png" alt="Logo" >
+  <a href="https://github.com/walberson/Podcastr">
+    <img src="logo.svg" alt="Logo" >
   </a>
 
   <h3 align="center">Podcastr</h3>
@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Podcastr - The best for you to hear always!][product-screenshot]](https://example.com)
+[![Podcastr - The best for you to hear always!][product-screenshot]](/)
 
   <p>
   The podcast was a project designed by rocketseat to be developed in the next level week # 5.
@@ -193,4 +193,4 @@ Project Link: [https://github.com/walberson/Podcastr](https://github.com/walbers
 [license-url]: https://github.com/walberson/Podcastr/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/walbersonsilva/
-[product-screenshot]: imagens/productss.png
+[product-screenshot]: /podcastrIndex2.png
