@@ -16,7 +16,7 @@
     <img src="logo.svg" alt="Logo" >
   </a>
 
-  <h3 align="center">Podcastr</h3>
+
 
   <p align="center">
     A simple and compact web podcast
