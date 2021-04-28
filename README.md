@@ -193,4 +193,4 @@ Project Link: [https://github.com/walberson/Podcastr](https://github.com/walbers
 [license-url]: https://github.com/walberson/Podcastr/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/walbersonsilva/
-[product-screenshot]: /podcastrIndex2.png
+[product-screenshot]: /podcastrIndex2.jpg
